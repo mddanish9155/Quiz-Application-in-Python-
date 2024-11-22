@@ -27,6 +27,12 @@ This is a simple, interactive Quiz Application built with Python. The applicatio
 <b>Quiz Topics:</b> Select a topic when prompted in quiz.py.<br>
 <b>Answer Questions:</b> Provide answers and get feedback for each question.<br>
 
+<h2>Getting Started 🚀</h2>
+
+<b>Prerequisites</b><br>
+#Python 3.x must be installed on your system.
+
+
 <h2>Contributing 🤝</h2><br>
 Feel free to fork this repository, open issues, or submit pull requests. Contributions are welcome!
 
