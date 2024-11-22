@@ -14,10 +14,19 @@ This is a simple, interactive Quiz Application built with Python. The applicatio
 
 <h2>Folder Structure 📂</h2>
 <b>
-  quiz-application\
+  quiz-application\<br>
 ├── registration.py      # Handles user registration and stores data in users.txt<br>
 ├── login.py             # Handles user login by validating credentials<br>
 ├── quiz.py              # Contains quiz logic and question bank<br>
 ├── users.txt            # Stores user credentials (username,password)<br>
 ├── README.md            # Documentation of the project<br>
 </b>
+<h2>Usage Instructions 🔧</h2>
+<b>Register:</b> First, register a username and password using registration.py.<br>
+<b>Log in:</b> Authenticate yourself using login.py.<br>
+<b>Quiz Topics:</b> Select a topic when prompted in quiz.py.<br>
+<b>Answer Questions:</b> Provide answers and get feedback for each question.<br>
+
+<h2>Contributing 🤝</h2><br>
+Feel free to fork this repository, open issues, or submit pull requests. Contributions are welcome!
+
