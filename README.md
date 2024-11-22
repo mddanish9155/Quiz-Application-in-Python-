@@ -12,8 +12,9 @@ This is a simple, interactive Quiz Application built with Python. The applicatio
 <b>Score Feedback:</b> Provides real-time feedback and displays scores after each quiz.<br>
 <b>Error Handling:</b> Ensures robust functionality even with incorrect inputs or missing data.<br>
 
-<h2>quiz-application</h2>
+<h2>Folder Structure 📂</h2>
 <b>
+  quiz-application\
 ├── registration.py      # Handles user registration and stores data in users.txt<br>
 ├── login.py             # Handles user login by validating credentials<br>
 ├── quiz.py              # Contains quiz logic and question bank<br>
